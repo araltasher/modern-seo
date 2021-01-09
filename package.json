@@ -2,6 +2,9 @@
   "name": "@mike-works/modern-seo",
   "version": "0.0.0-development",
   "description": "A Modern SEO workshop project",
+  "engines": {
+    "node": "12.16.3"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo 'sorry, no tests. We can still verify that dependencies are installed though!'",
